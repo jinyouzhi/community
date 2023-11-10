@@ -54,20 +54,20 @@
 - 自我介绍：飞桨开发者技术专家（PPDE），PaddleOCR、PaddleSeg贡献者，优化代码并封装了飞桨的几个CV模块的SDK库，提供C++\C#\PYTHON\GO\RUST\JAVA等调用的SDK类库。
 - 参加宣言：让更多的企业和个人使用开源技术，促进飞桨开源技术落地应用。
 
-### 金友至（GitHub ID：）
+### 金友至（GitHub ID：[jinyouzhi](https://github.com/jinyouzhi)）
 
-- 自我介绍：
-- 参加宣言：
+- 自我介绍：AI框架工程师，Paddle、PaddleFleetX代码仓库贡献者，PFCC成员。现供职于某半导体厂商加速计算产品线，主打摸资本主义的鱼，支援社会主义框架建设。
+- 参加宣言：相信开源事业能够团结最广大的用户和开发者共同促进技术进步，进而打破垄断和封锁，构建一个真正国际化全球化的社区。
 
 ### 张一乔（GitHub ID：[Liyulingyue](https://github.com/Liyulingyue)）
 
 - 自我介绍：飞桨开发者技术专家（PPDE），飞桨仓库Committer，混迹于AiStudio和飞桨社区的各个角落，致力于创造有趣的项目。
 - 参加宣言：世界上最美好的一些事情，比如开源，总是真正自由并且富有创造力的！
 
-### 郑必城（GitHub ID： [Zheng-Bicheng](https://github.com/Zheng-Bicheng)）
+### 郑必城（GitHub ID：）
 
-- 自我介绍：PFCC、PPDE、Arm Ambassador，为Padlle2ONNX、FastDeploy、PaddlePaddle贡献过万行代码。
-- 参加宣言：不求最好，但愿更好，尽心尽力就是成功。
+- 自我介绍：
+- 参加宣言：
 
 ### 汪昕（GitHub ID：[GreatV](https://github.com/GreatV)）
 
